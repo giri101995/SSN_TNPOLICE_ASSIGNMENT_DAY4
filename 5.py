@@ -15,6 +15,6 @@ print(emp_list1)
 ############################################################################
 emp_dic={}
 for k in range(m):
-    key1=input('Enter the complaint number')
+    key1=input('Enter the Employee Code')
     emp_dic[key1]=emp_list1[i]
 print(emp_dic)
